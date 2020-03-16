@@ -1,5 +1,8 @@
 _repo: Account-of-the-Terrific-and-Fatal-Riot-at-the-New-York-Astor-Place-Opera-House-on-the-Night-o__61601
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61601-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61601#Account-of-the-Terrific-and-Fatal-Riot-at-the-New-York-Astor-Place-Opera-House-on-the-Night-o_
 gutenberg_issued: '2020-03-11'
 gutenberg_type: Text
 identifiers:
